@@ -1015,7 +1015,7 @@ var (
 		"zomg.info",
 		"zxcv.com",
 		"zxcvbnm.com",
-		"zzz.com"
+		"zzz.com",
 	}
 )
 
